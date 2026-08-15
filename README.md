@@ -8,20 +8,32 @@
 
 ---
 
+### 👤 Personal Info
+- 📍 **Location:** India
+- 🎓 **Status:** Student & Self-taught tech learner
+- 💼 **Open to:** Learning collaborations, beginner-friendly CTFs, and networking with other students.
+- 💬 **Ask me about:** My journey starting out, the AI tools I use, or what I'm currently learning in CySec!
+
+---
+
 ### 🛠️ Tech Sandbox
 
 **Languages & Frameworks:**
-![Python](https://shields.io)
-![C](https://shields.io)
-![C++](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<p align="left">
+  <img src="https://skills.page" alt="Python" width="40" height="40" />
+  <img src="https://skills.page" alt="C" width="40" height="40" />
+  <img src="https://skills.page" alt="C++" width="40" height="40" />
+  <img src="https://skills.page" alt="JavaScript" width="40" height="40" />
+  <img src="https://skills.page" alt="HTML5" width="40" height="40" />
+  <img src="https://skills.page" alt="CSS3" width="40" height="40" />
+</p>
 
 **Tools & Environment:**
-![VS Code](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+<p align="left">
+  <img src="https://skills.page" alt="VS Code" width="40" height="40" />
+  <img src="https://skills.page" alt="Git" width="40" height="40" />
+  <img src="https://skills.page" alt="GitHub" width="40" height="40" />
+</p>
 
 ---
 
@@ -29,5 +41,4 @@
 
 <p align="left">
   <img src="https://vercel.app" alt="Karnozetrex's Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Langs" height="160" />
 </p>

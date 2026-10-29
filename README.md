@@ -20,7 +20,7 @@
 🔓 PROJECTS : Exploring repositories & writing initial code
 ```
 
-> `"The matrix is a system, Kalash. Learn the rules so you can break them cleanly."`
+> `"The matrix is a system. Learn the rules so you can break them cleanly."`
 
 ---
 
